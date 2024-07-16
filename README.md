@@ -1,4 +1,4 @@
-# Chat with Financial Documents
+# Multimodal Retrieval-Augmented Generation - Chat with Financial Documents using GPT4o Multimodal LLM & Llama-Parse
 
 This project demonstrates how to create a Question and Answer (Q&A) system using PDFs containing text, images, and tables. The system leverages `llama-parse` with GPT-4o for parsing the PDF and querying the extracted content using a Retrieval-Augmented Generation (RAG) pipeline.
 
